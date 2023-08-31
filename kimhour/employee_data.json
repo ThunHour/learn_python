@@ -1,0 +1,22 @@
+{
+    "employee": [
+        {
+            "age": 20,
+            "is_studying": true,
+            "name": "Kim hour",
+            "school": "KIT"
+        },
+        {
+            "School": "KIT",
+            "age": 18,
+            "isStudying": true,
+            "name": "china"
+        },
+        {
+            "School": "KiT",
+            "age": 20,
+            "is_studying": true,
+            "name": "Seanghor"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+   "employees": [
+      {
+         "come_from": "Phnom Penh",
+         "name": "Huot Monirith",
+         "position": "CTO",
+         "salary": "4000$",
+         "working_duration": 10
+      },
+      {
+         "come_from": "Phnom Penh",
+         "name": "Seak Kimhours",
+         "position": "Mobile Developer",
+         "salary": "2000$",
+         "working_duration": 5
+      },
+      {
+         "come_from": "Phnom Penh",
+         "name": "Hai senghour",
+         "position": "Web Developer",
+         "salary": "1000$",
+         "working_duration": 2
+      },
+      {
+         "come_from": "Kompong chang",
+         "name": "Kim Sereyvath",
+         "position": "Business Analysis",
+         "salary": "3000$",
+         "working_duration": 5
+      }
+   ]
+}
